@@ -1,4 +1,4 @@
-Question - 3:
+--Question - 3:
 
 CREATE TABLE Applications (
     candidate_id INTEGER,
