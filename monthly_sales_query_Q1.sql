@@ -1,4 +1,4 @@
--- QUESTION - 2
+-- QUESTION - 1
 
 CREATE TABLE Products (
     order_date DATE,
